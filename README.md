@@ -1,4 +1,4 @@
-# vue-erp
+# vue-router
 
 ## vue-router的简单实现，实现功能如下(hash模式)
 
